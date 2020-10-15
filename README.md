@@ -46,7 +46,7 @@ sudo pip3 install Adafruit_DHT
 ### Compile and install from the repository
 
 First download the library source code from the [GitHub releases
-page](https://github.com/adafruit/Adafruit_Python_DHT/releases), unzipping the
+page](https://github.com/Freenove/Adafruit_Python_DHT/releases), unzipping the
 archive, and execute:
 
 Python 2:
@@ -75,8 +75,8 @@ Usage
 
 See example of usage in the examples folder.
 
------
 Author
+-----
 Adafruit invests time and resources providing this open source code, please
 support Adafruit and open-source hardware by purchasing products from Adafruit!
 Written by Tony DiCola for Adafruit Industries.
